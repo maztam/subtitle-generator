@@ -1,3 +1,7 @@
+Simple Video Subtitle Generator\
+\
+Dikhususkan untuk video Pad Youtube Short\
+\
 List Module Must Install :\
 \
 pip install moviepy\
