@@ -1,7 +1,7 @@
 
 # Subtitle Generator
 
-Subtitle Generator by Bengkel Koding, sementara di khususkan untuk Youtube short
+Subtitle Generator by Bengkel Python, sementara di khususkan untuk Youtube short
 
 ## Installation
 
@@ -27,3 +27,6 @@ Please make sure to update tests as appropriate.
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
+
+## Contact
+FB Prawira Aditama Putra
